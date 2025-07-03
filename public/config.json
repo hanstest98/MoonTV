@@ -1,23 +1,11 @@
 {
-  "title": "MoonTV - 我的影视聚合",
+  "title": "测试",
   "api": [
     {
-      "key": "fantuan",
-      "name": "饭团影视",
-      "url": "https://饭团接口地址/api.php/provide/vod/"
-    },
-    {
-      "key": "lziapi",
-      "name": "LziAPI",
-      "url": "https://lziapi.com/api.php/provide/vod/"
-    },
-    {
-      "key": "applecms",
-      "name": "苹果CMS站点",
-      "url": "https://example.com/api.php/provide/vod/"
+      "key": "test",
+      "name": "测试接口",
+      "url": "https://not-exist.example.com/api.php/provide/vod/"
     }
   ],
-  "defaultApi": "fantuan",
-  "themeColor": "#ff5722",
-  "background": "https://pic.imgdb.cn/item/65a7b7bbc458853aefdec6d2.png"
+  "defaultApi": "test"
 }
